@@ -95,17 +95,6 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-  <h3><a href="https://github.com/ryanowlops/BunVibe">BunVibe</a></h3>
-  <p>Active project in progress.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Tech-TypeScript-2563eb?style=flat-square" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Stars-0%20stars-f59e0b?style=flat-square" alt="0 stars" />
-    <img src="https://img.shields.io/badge/Forks-0%20forks-14b8a6?style=flat-square" alt="0 forks" />
-    <img src="https://img.shields.io/badge/Commits-1%20commit-8b5cf6?style=flat-square" alt="1 commit on main" />
-    <img src="https://img.shields.io/badge/Updated-Aug%2009%2C%202026-64748b?style=flat-square" alt="Updated Aug 09, 2026" />
-  </p>
-</td>
-<td width="50%" valign="top">
   <h3><a href="https://github.com/ryanowlops/faker">faker</a></h3>
   <p>Active project in progress.</p>
   <p>
@@ -114,19 +103,6 @@
     <img src="https://img.shields.io/badge/Forks-2%20forks-14b8a6?style=flat-square" alt="2 forks" />
     <img src="https://img.shields.io/badge/Commits-1%20commit-8b5cf6?style=flat-square" alt="1 commit on main" />
     <img src="https://img.shields.io/badge/Updated-Aug%2008%2C%202026-64748b?style=flat-square" alt="Updated Aug 08, 2026" />
-  </p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/ryanowlops/vibe-bypass">vibe-bypass</a></h3>
-  <p>Active project in progress.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Tech-TypeScript-2563eb?style=flat-square" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Stars-0%20stars-f59e0b?style=flat-square" alt="0 stars" />
-    <img src="https://img.shields.io/badge/Forks-0%20forks-14b8a6?style=flat-square" alt="0 forks" />
-    <img src="https://img.shields.io/badge/Commits-5%20commits-8b5cf6?style=flat-square" alt="5 commits on main" />
-    <img src="https://img.shields.io/badge/Updated-Aug%2006%2C%202026-64748b?style=flat-square" alt="Updated Aug 06, 2026" />
   </p>
 </td>
 <td width="50%" valign="top">
@@ -164,6 +140,20 @@
     <img src="https://img.shields.io/badge/Updated-Jun%2025%2C%202026-64748b?style=flat-square" alt="Updated Jun 25, 2026" />
   </p>
 </td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/ryanowlops/ai-service-rmb">ai-service-rmb</a></h3>
+  <p>Active project in progress.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Tech-Python-2563eb?style=flat-square" alt="Python" />
+    <img src="https://img.shields.io/badge/Stars-0%20stars-f59e0b?style=flat-square" alt="0 stars" />
+    <img src="https://img.shields.io/badge/Forks-0%20forks-14b8a6?style=flat-square" alt="0 forks" />
+    <img src="https://img.shields.io/badge/Commits-1%20commit-8b5cf6?style=flat-square" alt="1 commit on dev" />
+    <img src="https://img.shields.io/badge/Updated-Jun%2025%2C%202026-64748b?style=flat-square" alt="Updated Jun 25, 2026" />
+  </p>
+</td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 <!-- FEATURED-PROJECTS:END -->
