@@ -5,10 +5,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/ryanowlops">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=1100&color=2DD4BF&center=true&vCenter=true&width=820&lines=Founder+%26+Lead+Architect+%40+TheOwlOps;Pioneering+Autonomous+AI+Agent+Harnesses;Building+Ultra+Low-Latency+Distributed+Gateways;Engineering+Hacker-Grade+TUIs+in+Rust+%26+Tokio;Crafting+Production+Protocols+in+Rust%2C+Go+%26+TypeScript." alt="Typing Headline" />
-  </a>
-</div>
+
+### `> Founder & Lead Architect @ TheOwlOps — Engineering Autonomous AI Systems & Hacker TUIs`
 
 <p align="center">
   <a href="mailto:vanson2004tkhd@gmail.com">
@@ -25,6 +23,8 @@
   </a>
 </p>
 
+</div>
+
 ---
 
 ### 🛰️ Mission Control & System Architecture
@@ -34,7 +34,7 @@
     <td width="50%" valign="top">
       <h3>⚡ Architectural Focus</h3>
       <ul>
-        <li><strong>Autonomous Agent Harnesses</strong>: Production-ready agentic runtimes, reflex guards, self-healing tool execution loops, and deterministic sandboxes.</li>
+        <li><strong>Autonomous Agent Harnesses</strong>: Production agentic runtimes, reflex guards, self-healing tool execution loops, and deterministic sandboxes.</li>
         <li><strong>Distributed Protocol Gateways</strong>: Asynchronous event meshes, resilient Dead Letter Queues (DLQ), and cross-channel failover routing.</li>
         <li><strong>Hacker TUIs & CLIs</strong>: High-speed, terminal-native user interfaces built with <strong>Rust</strong>, <code>ratatui</code>, and async <code>tokio</code>.</li>
         <li><strong>Multi-Channel SDKs</strong>: Unified cross-platform bridges integrating Discord, Telegram, and Zalo with shared atomics.</li>
@@ -65,7 +65,7 @@
 
 ---
 
-### 🚀 Featured Repositories
+### 🚀 Featured Engineering Works
 
 <!-- FEATURED-PROJECTS:START -->
 <table>
