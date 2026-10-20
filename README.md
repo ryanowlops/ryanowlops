@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### `> Founder & Lead Architect @ TheOwlOps — Engineering Autonomous AI Systems & Hacker TUIs`
+### `> Founder & Architect @ TheOwlOps • Autonomous AI & Distributed Systems`
 
 <p align="center">
   <a href="mailto:vanson2004tkhd@gmail.com">
