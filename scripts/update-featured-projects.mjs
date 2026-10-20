@@ -1,6 +1,6 @@
 import { readFile, writeFile } from "node:fs/promises";
 
-const owner = process.env.OWNER || process.env.GITHUB_REPOSITORY_OWNER || "barkdock";
+const owner = process.env.OWNER || process.env.GITHUB_REPOSITORY_OWNER || "ryanowlops";
 const token = process.env.GH_TOKEN || process.env.GITHUB_TOKEN;
 const readmePath = "README.md";
 const startMarker = "<!-- FEATURED-PROJECTS:START -->";
@@ -113,10 +113,10 @@ const renderRepoCard = (repo) => {
     `  <h3><a href="${escapeHtml(repo.html_url)}">${escapeHtml(repo.name)}</a></h3>`,
     `  <p>${escapeHtml(description)}</p>`,
     "  <p>",
-    `    <img src="${badgeUrl("Tech", language, "2563eb")}" alt="${escapeHtml(language)}" />`,
+    `    <img src="${badgeUrl("Tech", language, "2dd4bf")}" alt="${escapeHtml(language)}" />`,
     `    <img src="${badgeUrl("Stars", stars, "f59e0b")}" alt="${escapeHtml(stars)}" />`,
-    `    <img src="${badgeUrl("Forks", forks, "14b8a6")}" alt="${escapeHtml(forks)}" />`,
-    `    <img src="${badgeUrl("Commits", commits, "8b5cf6")}" alt="${escapeHtml(commits)} on ${escapeHtml(repo.default_branch)}" />`,
+    `    <img src="${badgeUrl("Forks", forks, "818cf8")}" alt="${escapeHtml(forks)}" />`,
+    `    <img src="${badgeUrl("Commits", commits, "38bdf8")}" alt="${escapeHtml(commits)} on ${escapeHtml(repo.default_branch)}" />`,
     `    <img src="${badgeUrl("Updated", updated, "64748b")}" alt="Updated ${escapeHtml(updated)}" />`,
     "  </p>",
     "</td>",
