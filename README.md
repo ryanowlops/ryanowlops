@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0c0e14,40:1e1b4b,75:4338ca,100:14b8a6&text=Ryan%20Pham&fontSize=52&fontColor=2dd4bf&animation=fadeIn&fontAlignY=38&desc=Autonomous%20AI%20Agents%20%E2%80%A2%20Distributed%20Gateways%20%E2%80%A2%20Rust%20%26%20Go&descAlignY=62&descSize=18" alt="Ryan Pham Banner" />
+  <img width="100%" src="https://raw.githubusercontent.com/ryanowlops/ryanowlops/main/banner.svg" alt="Ryan Pham Banner" />
 </div>
 
 <div align="center">
@@ -71,10 +71,4 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanowlops&theme=tokyo-night&hide_border=true&area=true&color=2dd4bf" width="100%" alt="Activity Graph" />
-</div>
-
----
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:14b8a6,50:4338ca,100:0c0e14&section=footer" alt="Footer Banner" />
 </div>
