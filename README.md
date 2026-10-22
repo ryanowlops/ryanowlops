@@ -77,23 +77,10 @@
     <img src="https://img.shields.io/badge/Tech-JavaScript-2dd4bf?style=flat-square" alt="JavaScript" />
     <img src="https://img.shields.io/badge/Stars-0%20stars-f59e0b?style=flat-square" alt="0 stars" />
     <img src="https://img.shields.io/badge/Forks-0%20forks-818cf8?style=flat-square" alt="0 forks" />
-    <img src="https://img.shields.io/badge/Commits-28%20commits-38bdf8?style=flat-square" alt="28 commits on main" />
-    <img src="https://img.shields.io/badge/Updated-Oct%2021%2C%202026-64748b?style=flat-square" alt="Updated Oct 21, 2026" />
+    <img src="https://img.shields.io/badge/Commits-39%20commits-38bdf8?style=flat-square" alt="39 commits on main" />
+    <img src="https://img.shields.io/badge/Updated-Oct%2022%2C%202026-64748b?style=flat-square" alt="Updated Oct 22, 2026" />
   </p>
 </td>
-<td width="50%" valign="top">
-  <h3><a href="https://github.com/ryanowlops/learn-flashcard">learn-flashcard</a></h3>
-  <p>Public flashcard study app for learning and revision</p>
-  <p>
-    <img src="https://img.shields.io/badge/Tech-Mixed-2dd4bf?style=flat-square" alt="Mixed" />
-    <img src="https://img.shields.io/badge/Stars-0%20stars-f59e0b?style=flat-square" alt="0 stars" />
-    <img src="https://img.shields.io/badge/Forks-0%20forks-818cf8?style=flat-square" alt="0 forks" />
-    <img src="https://img.shields.io/badge/Commits-1%20commit-38bdf8?style=flat-square" alt="1 commit on main" />
-    <img src="https://img.shields.io/badge/Updated-Oct%2020%2C%202026-64748b?style=flat-square" alt="Updated Oct 20, 2026" />
-  </p>
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/ryanowlops/faker">faker</a></h3>
   <p>Active project in progress.</p>
@@ -105,6 +92,8 @@
     <img src="https://img.shields.io/badge/Updated-Aug%2008%2C%202026-64748b?style=flat-square" alt="Updated Aug 08, 2026" />
   </p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/ryanowlops/core-lms">core-lms</a></h3>
   <p>Active project in progress.</p>
@@ -116,8 +105,6 @@
     <img src="https://img.shields.io/badge/Updated-Jun%2026%2C%202026-64748b?style=flat-square" alt="Updated Jun 26, 2026" />
   </p>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/ryanowlops/mini-chat">mini-chat</a></h3>
   <p>Active project in progress.</p>
@@ -129,6 +116,8 @@
     <img src="https://img.shields.io/badge/Updated-Jun%2026%2C%202026-64748b?style=flat-square" alt="Updated Jun 26, 2026" />
   </p>
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
   <h3><a href="https://github.com/ryanowlops/core-lms-fe">core-lms-fe</a></h3>
   <p>Active project in progress.</p>
@@ -137,6 +126,17 @@
     <img src="https://img.shields.io/badge/Stars-0%20stars-f59e0b?style=flat-square" alt="0 stars" />
     <img src="https://img.shields.io/badge/Forks-0%20forks-818cf8?style=flat-square" alt="0 forks" />
     <img src="https://img.shields.io/badge/Commits-3%20commits-38bdf8?style=flat-square" alt="3 commits on main" />
+    <img src="https://img.shields.io/badge/Updated-Jun%2025%2C%202026-64748b?style=flat-square" alt="Updated Jun 25, 2026" />
+  </p>
+</td>
+<td width="50%" valign="top">
+  <h3><a href="https://github.com/ryanowlops/ai-service-rmb">ai-service-rmb</a></h3>
+  <p>Active project in progress.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Tech-Python-2dd4bf?style=flat-square" alt="Python" />
+    <img src="https://img.shields.io/badge/Stars-0%20stars-f59e0b?style=flat-square" alt="0 stars" />
+    <img src="https://img.shields.io/badge/Forks-0%20forks-818cf8?style=flat-square" alt="0 forks" />
+    <img src="https://img.shields.io/badge/Commits-1%20commit-38bdf8?style=flat-square" alt="1 commit on dev" />
     <img src="https://img.shields.io/badge/Updated-Jun%2025%2C%202026-64748b?style=flat-square" alt="Updated Jun 25, 2026" />
   </p>
 </td>
