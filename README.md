@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ryanowlops">
-    <img width="100%" src="https://raw.githubusercontent.com/ryanowlops/ryanowlops/main/banner.svg" alt="Ryan Pham  @ TheOwlOps" />
+    <img width="100%" src="https://raw.githubusercontent.com/ryanowlops/ryanowlops/main/banner.svg" alt="Ryan Pham  @TheOwlOps" />
   </a>
 </div>
 
