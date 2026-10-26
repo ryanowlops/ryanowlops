@@ -1,12 +1,12 @@
 <div align="center">
   <a href="https://github.com/ryanowlops">
-    <img width="100%" src="https://raw.githubusercontent.com/ryanowlops/ryanowlops/main/banner.svg" alt="Ryan Pham - Founder & Architect @ TheOwlOps" />
+    <img width="100%" src="https://raw.githubusercontent.com/ryanowlops/ryanowlops/main/banner.svg" alt="Ryan Pham  @ TheOwlOps" />
   </a>
 </div>
 
 <div align="center">
 
-### `> Founder & Architect @ TheOwlOps • Autonomous AI & Distributed Systems`
+### `> @TheOwlOps • Autonomous AI`
 
 <p align="center">
   <a href="mailto:vanson2004tkhd@gmail.com">
@@ -46,24 +46,12 @@
         <li><a href="https://github.com/TheOwlOps"><strong>OwlOps</strong></a> — Autonomous AI agent orchestrator, flat protocol design & permission guards.</li>
         <li><a href="https://github.com/TheOwlOps"><strong>Boom</strong></a> — High-performance Rust TUI sandbox, coding runtime & telemetry mascot.</li>
         <li><a href="https://github.com/TheOwlOps"><strong>ChannelHub</strong></a> — Industrial multi-channel messaging protocol SDK (Node, Go, Rust).</li>
-        <li><a href="https://github.com/TheOwlOps"><strong>OxHub</strong></a> — Centralized Go statusline HUD and production AI agent skill library.</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
 
-### 🧰 Tech Arsenal
-
-<div align="center">
-  <p><strong>Systems, Core Runtimes & Infrastructure</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,go,ts,nodejs,python,c,wasm,bash,docker,postgres,redis,linux,react,tailwind,git,neovim&perline=8&theme=dark" alt="Skills" />
-  </a>
-</div>
-
----
 
 ### 🚀 Featured Engineering Works
 
