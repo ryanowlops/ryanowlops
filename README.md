@@ -62,11 +62,11 @@
   <h3><a href="https://github.com/ryanowlops/web-hrm-ai">web-hrm-ai</a></h3>
   <p>Web HRM tich hop AI - Flask + React JS (do an)</p>
   <p>
-    <img src="https://img.shields.io/badge/Tech-Kotlin-2dd4bf?style=flat-square" alt="Kotlin" />
+    <img src="https://img.shields.io/badge/Tech-Python-2dd4bf?style=flat-square" alt="Python" />
     <img src="https://img.shields.io/badge/Stars-0%20stars-f59e0b?style=flat-square" alt="0 stars" />
     <img src="https://img.shields.io/badge/Forks-0%20forks-818cf8?style=flat-square" alt="0 forks" />
-    <img src="https://img.shields.io/badge/Commits-75%20commits-38bdf8?style=flat-square" alt="75 commits on main" />
-    <img src="https://img.shields.io/badge/Updated-Nov%2012%2C%202026-64748b?style=flat-square" alt="Updated Nov 12, 2026" />
+    <img src="https://img.shields.io/badge/Commits-83%20commits-38bdf8?style=flat-square" alt="83 commits on main" />
+    <img src="https://img.shields.io/badge/Updated-Nov%2013%2C%202026-64748b?style=flat-square" alt="Updated Nov 13, 2026" />
   </p>
 </td>
 <td width="50%" valign="top">
