@@ -90,32 +90,6 @@
 
 ---
 
-### 📊 Real-Time Telemetry & Contribution Matrix
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanowlops&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=2dd4bf&text_color=cbd5e1&icon_color=818cf8&bg_color=0c0e14" height="170" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ryanowlops&theme=tokyonight&hide_border=true&border_radius=8&ring=2dd4bf&fire=818cf8&currStreakLabel=2dd4bf&background=0c0e14" height="170" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanowlops&layout=compact&theme=tokyonight&hide_border=true&title_color=2dd4bf&text_color=cbd5e1&bg_color=0c0e14" height="170" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanowlops&theme=tokyo-night&hide_border=true&area=true&color=2dd4bf" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanowlops/ryanowlops/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanowlops/ryanowlops/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Matrix" src="https://raw.githubusercontent.com/ryanowlops/ryanowlops/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
----
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:14b8a6,50:4338ca,100:0c0e14&section=footer" alt="Footer Banner" />
 </div>
