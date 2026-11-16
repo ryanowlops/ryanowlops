@@ -9,9 +9,7 @@
 ### `> @TheOwlOps • Autonomous AI`
 
 <p align="center">
-  <a href="mailto:vanson2004tkhd@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-vanson2004tkhd%40gmail.com-0c0e14?style=for-the-badge&logo=gmail&logoColor=2dd4bf&labelColor=1e1b4b" alt="Email" />
-  </a>
+ 
   <a href="https://github.com/ryanowlops">
     <img src="https://img.shields.io/badge/GITHUB-ryanowlops-0c0e14?style=for-the-badge&logo=github&logoColor=2dd4bf&labelColor=1e1b4b" alt="GitHub" />
   </a>
