@@ -5,8 +5,8 @@
   <a href="https://github.com/ryanowlops">
     <img src="https://img.shields.io/badge/GITHUB-ryanowlops-0c0e14?style=for-the-badge&logo=github&logoColor=2dd4bf&labelColor=1e1b4b" alt="GitHub" />
   </a>
-  <a href="https://t.me/Mark">
-    <img src="https://img.shields.io/badge/TELEGRAM-%40Mark-0c0e14?style=for-the-badge&logo=telegram&logoColor=2dd4bf&labelColor=1e1b4b" alt="Telegram" />
+  <a href="https://t.me/ryanowlops">
+    <img src="https://img.shields.io/badge/TELEGRAM-%40ryanowlops-0c0e14?style=for-the-badge&logo=telegram&logoColor=2dd4bf&labelColor=1e1b4b" alt="Telegram" />
   </a>
   <a href="https://github.com/TheOwlOps">
     <img src="https://img.shields.io/badge/ORGANIZATION-TheOwlOps-0c0e14?style=for-the-badge&logo=githubactions&logoColor=818cf8&labelColor=1e1b4b" alt="TheOwlOps" />
