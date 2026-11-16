@@ -19,29 +19,7 @@
 
 ### 🛰️ Mission Control & System Architecture
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ Architectural Focus</h3>
-      <ul>
-        <li><strong>Autonomous Agent Harnesses</strong>: Production agentic runtimes, reflex guards, self-healing tool execution loops, and deterministic sandboxes.</li>
-        <li><strong>Distributed Protocol Gateways</strong>: Asynchronous event meshes, resilient Dead Letter Queues (DLQ), and cross-channel failover routing.</li>
-        <li><strong>Hacker TUIs & CLIs</strong>: High-speed, terminal-native user interfaces built with <strong>Rust</strong>, <code>ratatui</code>, and async <code>tokio</code>.</li>
-        <li><strong>Multi-Channel SDKs</strong>: Unified cross-platform bridges integrating Discord, Telegram, and Zalo with shared atomics.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌌 TheOwlOps Flagship Projects</h3>
-      <ul>
-        <li><a href="https://github.com/TheOwlOps"><strong>OwlOps</strong></a> — Autonomous AI agent orchestrator, flat protocol design & permission guards.</li>
-        <li><a href="https://github.com/TheOwlOps"><strong>Boom</strong></a> — High-performance Rust TUI sandbox, coding runtime & telemetry mascot.</li>
-        <li><a href="https://github.com/TheOwlOps"><strong>ChannelHub</strong></a> — Industrial multi-channel messaging protocol SDK (Node, Go, Rust).</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-
+I build **autonomous agent harnesses** (production agentic runtimes with reflex guards and self-healing tool loops), **distributed protocol gateways** (async event meshes, resilient DLQs, cross-channel failover), and fast **Rust TUIs & CLIs** — plus **multi-channel SDKs** bridging Discord, Telegram, and Zalo. Flagship projects: [**Boom**](https://github.com/TheOwlOps) — a high-performance Rust TUI sandbox and coding runtime — and [**ChannelHub**](https://github.com/TheOwlOps) — an industrial multi-channel messaging protocol SDK (Node, Go, Rust).
 
 ### 🚀 Featured Engineering Works
 
