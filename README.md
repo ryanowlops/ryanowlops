@@ -68,6 +68,14 @@ I build **autonomous agent harnesses** (production agentic runtimes with reflex 
 
 ---
 
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ryanowlops&bg_color=0c0e14&color=cbd5e1&line=2dd4bf&point=818cf8&area_color=2dd4bf&area=true&hide_border=true&hide_title=true&radius=16&height=300" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:14b8a6,50:4338ca,100:0c0e14&section=footer" alt="Footer Banner" />
 </div>
